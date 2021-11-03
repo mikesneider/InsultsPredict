@@ -1,4 +1,4 @@
-# Insults prediction
+# Insults prediction 🤬
 
 This notebook is checking some tools for NLP and pipeline.
 You can get the data in this link: [here](https://raw.githubusercontent.com/amueller/sklearn_tutorial/master/kaggle_insult/train.csv)
